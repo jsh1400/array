@@ -1,0 +1,27 @@
+{
+  "name": "jsh1400-array",
+  "version": "1.7.2",
+  "description": "change array data structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello user\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jsh1400/array.git"
+  },
+  "keywords": [
+    "array pluck",
+    "array find all",
+    "array find all index",
+    "array to object",
+    "array to stringify",
+    "string to array parse"
+  ],
+  "author": "Javad Shariati <jsh1400@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsh1400/array/issues"
+  },
+  "homepage": "https://github.com/jsh1400/array#readme"
+}
